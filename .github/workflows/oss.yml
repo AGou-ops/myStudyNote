@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - run: git checkout gh-pages
     - uses: manyuanrong/setup-ossutil@v1.0
       with:
         endpoint: "oss-cn-hangzhou.aliyuncs.com"
