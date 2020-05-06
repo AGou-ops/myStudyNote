@@ -103,8 +103,8 @@
             ]
         },
         "donate": {
-            "wechat": "https://agou-ops.github.io/images/wechatpay.png",
-            "alipay": "https://agou-ops.github.io/images/alipay.png",
+            "wechat": "http://agou-images.oss-cn-qingdao.aliyuncs.com/BaseIMG/wechat.png",
+            "alipay": "http://agou-images.oss-cn-qingdao.aliyuncs.com/BaseIMG/alipay.png",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏",
