@@ -9,7 +9,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "◆点击进入我的个人博客": "http://agou-ops.github.io"
+            "◆点击进入我的个人博客": "https://agou-ops.github.io"
         }
     },
     "plugins": [
